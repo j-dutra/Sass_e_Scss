@@ -1,0 +1,27 @@
+$bg-color: #EEE;
+$title-background: #333;
+$main-color: #FFF;
+
+.container {
+  background-color: $bg-color;
+  padding: 20px;
+
+  #title {
+    background-color: $title-background;
+    color: $main-color;
+    text-align: center;
+    padding: 10px;
+  }
+}
+
+.cointaner-bottom {
+  background-color: blue;
+  padding: 20px;
+  text-align: center;
+
+  p {
+    background-color: #FFF;
+    padding-left: 10px;
+    text-align: center;
+  }
+}
