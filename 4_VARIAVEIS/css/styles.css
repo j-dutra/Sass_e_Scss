@@ -1,0 +1,26 @@
+h1 {
+  color: #321;
+  border: 2px solid red; }
+
+p {
+  color: #321;
+  border: 2px solid red;
+  font-size: 3rem;
+  margin: 12px;
+  padding: 16px; }
+
+a {
+  color: #321; }
+
+div p {
+  color: #fff;
+  background: blue;
+  border: 3px dotted green; }
+  div p span {
+    border: 3px dotted green; }
+
+h2 {
+  color: green;
+  border: 2px solid red; }
+
+/*# sourceMappingURL=styles.css.map */
